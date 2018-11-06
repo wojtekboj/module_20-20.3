@@ -4,7 +4,7 @@
 * [Tools](#tools)
 
 ## General info
-Database of countries synchronized with Redux
+Database of countries synchronized with Redux - part 1
 
 ## Technologies
 Project is created with:

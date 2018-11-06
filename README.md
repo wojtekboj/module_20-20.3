@@ -1,4 +1,4 @@
-## Database of countries synchronized with Redux
+## Database of countries synchronized with Redux - part 1
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Tools](#tools)
